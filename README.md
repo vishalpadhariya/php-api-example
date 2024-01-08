@@ -17,7 +17,7 @@ Explore step-by-step guides and sample code snippets to help newcomers understan
 
 To run this project, you will need to add the following environment variables to your config.php file at root
 
-For eg., define("key","value");
+For eg., `define("key","value");`
 
 ***Basic Authentication***
 
